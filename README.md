@@ -18,6 +18,7 @@ I had to encode my y_train values for XGBoost. I changed “Asia”, “Europe�
 4. AdaBoost with parameter tuning
 5. XGBoost with parameter tuning
 
+![Screenshot 2022-10-15 at 00-56-13 decision_tree_picture pdf](https://user-images.githubusercontent.com/8845450/195972252-57b2e2da-fa6b-448e-8b4a-e813666ea00d.png)
 
 ## Packages used in Jupyter Notebook
 
