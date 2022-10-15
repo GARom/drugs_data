@@ -15,8 +15,8 @@ I had to encode my y_train values for XGBoost. I changed “Asia”, “Europe�
 1. Decision Tree
 2. Random Forrest
 3. Random Forrest with parameter tuning
-4. AdaBoost
-5. XGBoost
+4. AdaBoost with parameter tuning
+5. XGBoost with parameter tuning
 
 
 ## Packages used in Jupyter Notebook
